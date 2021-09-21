@@ -14,5 +14,6 @@ public class GitTest {
         System.out.println("hello GitLab");
         System.out.println("master branch");
         System.out.println("hot-fix branch");
+        System.out.println("fighting");
     }
 }
